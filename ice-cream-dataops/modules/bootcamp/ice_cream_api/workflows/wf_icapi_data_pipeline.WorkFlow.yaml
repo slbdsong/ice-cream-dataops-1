@@ -1,0 +1,3 @@
+externalId: wf_icapi_data_pipeline
+description: create assets hierarchy, contextualize time series assets, run icapi datapoints extractor function, run oee time series caluclation function
+  #dataSetExternalId: ds_workflow_data 
