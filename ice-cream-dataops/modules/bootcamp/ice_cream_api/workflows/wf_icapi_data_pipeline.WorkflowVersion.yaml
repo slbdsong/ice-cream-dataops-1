@@ -7,7 +7,6 @@ workflowDefinition:
     parameters:
       transformation:
         externalId: create_asset_hierarchy
-        data: { "hours": 1 }
     name: 'Create Asset Hierarchy Transformation'
     retries: 3
     timeout: 3600
@@ -17,7 +16,6 @@ workflowDefinition:
     parameters:
       transformation:
         externalId: contextualize_ts_assets
-        data: { "hours": 1 }
     name: 'Conextualize Time Series Assets Transformation'
     retries: 3
     timeout: 3600
