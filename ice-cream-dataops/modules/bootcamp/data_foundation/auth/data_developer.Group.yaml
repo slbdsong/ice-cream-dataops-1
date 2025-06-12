@@ -1,6 +1,5 @@
 name: data_developer
-sourceId: 07b62e81-3c5c-4621-950b-010bdab6a297
-
+sourceId: {{ data_developer_source_id }}
 capabilities:
   - annotationsAcl:
       actions: [READ, WRITE]

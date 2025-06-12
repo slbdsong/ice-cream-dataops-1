@@ -1,5 +1,5 @@
 name: data-pipeline-oee
-sourceId: 1527c795-a91e-4032-9795-1bb50c248824
+sourceId: {{ data_pipeline_oee_source_id }}
 
 
 capabilities:
